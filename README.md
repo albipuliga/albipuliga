@@ -12,7 +12,7 @@
 ## Recent Projects
 - [Computer Vision Project](https://github.com/IERoboticsClub/VictorIA)
 - [IE Hackathon](https://github.com/haxybaxy/AIHackathon)
-- [Databases Project]([https://github.com/haxybaxy/AIHackathon](https://github.com/albipuliga/Databases_Library_Project))
+- [Databases Project](https://github.com/albipuliga/Databases_Library_Project)
 
 
 ## My GitHub Stats

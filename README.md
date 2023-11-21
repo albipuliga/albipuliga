@@ -15,5 +15,5 @@
 - [Databases Project](https://github.com/albipuliga/Databases_Library_Project)
 
 
-## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=albipuliga&show_icons=true)
+<!-- Hub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=albipuliga&show_icons=true) -->

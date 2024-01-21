@@ -16,7 +16,9 @@
     <a href="mailto:albi.puliga@gmail.com " target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="www.linkedin.com/in/alberto-puliga" target="_blank">
+    <a href="www.linkedin.com/in/alberto-puliga/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="[www.linkedin.com/in/alberto-puliga/](https://www.linkedin.com/in/alberto-puliga/)" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </div>
@@ -39,6 +41,6 @@
 
 <h3 align="center">📊 Statistics:</h3>
 <div class="stats" align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=albipuliga&show_icons=true&locale=en&layout=compact" alt="albipuliga" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=albipuliga&show_icons=true&locale=en" alt="albipuliga" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=albipuliga&show_icons=true&locale=en&layout=compact&theme=algolia" alt="albipuliga" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=albipuliga&show_icons=true&locale=en&theme=algolia" alt="albipuliga" /></p>
 </div>

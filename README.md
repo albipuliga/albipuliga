@@ -1,11 +1,12 @@
-### Hi there 👋, I'm Alberto!
+# Hi there 👋, I'm Alberto!
 ![](https://media.licdn.com/dms/image/D4E16AQFX6zYJMR-7_Q/profile-displaybackgroundimage-shrink_350_1400/0/1674939724813?e=1711584000&v=beta&t=TL94afscsLOYsPRvr1JP-Vr_KwB1ARtYbR1Q9Bxuo-w)
 
+## About me:
 - 🎓 I'm currently studying Computer Science & AI at IE University
-- ⚡ About me: I love cars, optmisation and playing guitar
+- ⚡ I love cars, optmisation and playing guitar
 - 🖥️ I am mostly intrested in backend development and lately I've been diving deeper into computer vision as well as cybersecurity!
 
-Skills: Python | C | SQL | Computer Vision
+
 
 - 🔭 I’m currently working on a [Computer Vision Project](https://github.com/IERoboticsClub/VictorIA) 
 - 📫 How to reach me: albi.puliga@gmail.com  

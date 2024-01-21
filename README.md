@@ -1,19 +1,25 @@
 <h1 align="center">Hello there 👋, I'm Alberto!</h1>
-![banner](https://github.com/albipuliga/albipuliga/blob/main/alberto%20Puliga.png)
+
+![Header](<alberto Puliga.png>)
 <h3 align="center">🎓 I'm a Computer Science & AI student at IE University</h3>
 
-- 🖥️ I am mostly intrested in **Backend Development** and lately I've been diving deeper into **Computer Vision** as well as **Cybersecurity**!
+- 🖥️ I am mostly interested in **Backend Development** and lately I've been diving deeper into **Computer Vision** as well as **Cybersecurity**!
+
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1GE5uhIz8NHuZkfZRbSz1u6WvJ_kVozTs/view?usp=share_link)
+
 - 🔭 I’m currently working on a [Computer Vision Project](https://github.com/IERoboticsClub/VictorIA)
-- 📫 How to reach me **apuliga.ieu2022@student.ie.edu** | **albi.puliga@gmail.com**
-- ⚡ **Fun facts:** I love cars, optmisation and playing guitar
+
+- ⚡ **Fun facts:** I love cars, optimization and playing guitar
 
 <h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/alberto-puliga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alberto-puliga" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/albertopuliga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="albertopuliga" height="30" width="40" /></a>
-
-</p>
+<div align="center">
+    <a href="mailto:albi.puliga@gmail.com " target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="www.linkedin.com/in/alberto-puliga" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</div>
 
 
 <h3 align="center">⚙️ Languages / Tools:</h3>

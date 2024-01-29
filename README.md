@@ -5,7 +5,7 @@
 
 - 🖥️ I am mostly interested in **Backend Development** and lately I've been diving deeper into **Computer Vision** as well as **Cybersecurity**!
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1GE5uhIz8NHuZkfZRbSz1u6WvJ_kVozTs/view?usp=share_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1_CJ1kzZ1r4rId05VmpFDEPQxL4rUII0v/view)
 
 - 🔭 I’m currently working on a [Computer Vision Project](https://github.com/IERoboticsClub/VictorIA)
 

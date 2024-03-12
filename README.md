@@ -5,7 +5,7 @@
 
 - 🖥️ I am mostly interested in **Backend Development** and lately I've been diving deeper into **Computer Vision** as well as **Cybersecurity**!
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Zyspq2adgRfNnShxFX4TPUuToM6XTOh5/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1-1Xb9PDrl9GKLNqFZ3plp_01SbL-8kBZ/view?usp=sharing)
 
 - 🔭 I’m currently working on a [Computer Vision Project](https://github.com/IERoboticsClub/VictorIA)
 
@@ -39,5 +39,4 @@
 <h3 align="center">📊 Statistics:</h3>
 <div class="stats" align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=albipuliga&show_icons=true&locale=en&layout=compact&theme=algolia" alt="albipuliga" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=albipuliga&show_icons=true&locale=en&theme=algolia" alt="albipuliga" /></p>
 </div>

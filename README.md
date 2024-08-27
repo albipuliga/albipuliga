@@ -3,7 +3,7 @@
 ![Header](<alberto Puliga.png>)
 <h3 align="center">🎓 I'm a Computer Science & AI student at IE University</h3>
 
-- 🖥️ I am mostly interested in **Backend Development** but lately I've been diving deeper into **Full-Stack** developement!
+- 🖥️ I am mostly interested in **Backend Development**, but lately I've been diving deeper into **Full-Stack**!
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1hvb12WnTVyt3JiYhmRfJ2ENyu1RvBE9X/view?usp=sharing)
 

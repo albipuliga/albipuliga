@@ -33,7 +33,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,mysql,postgres,git,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,postgres,git,docker" />
   </a>
 </p>
 

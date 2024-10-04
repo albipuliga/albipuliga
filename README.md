@@ -23,12 +23,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,django,flask,sklearn,pytorch,tensorflow,js,ts,nextjs,react,html,css,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=py,opencv,django,flask,sklearn,pytorch,tensorflow" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,bash,linux,mysql,postgres,supabase,mongodb,git,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,mysql,postgres,git,docker" />
   </a>
 </p>
 

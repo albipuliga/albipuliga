@@ -5,7 +5,7 @@
 
 - 🖥️ I am mostly interested in **Backend Development**, but lately I've been diving deeper into **Full-Stack**!
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1-K1MrYUKxQx_TSABLyhj9PG41938rPK4/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/open?id=1-ZAW9wA5D8vZdQ9m8KXOuBtjs_cWx6zy&usp=drive_fs)
 
 - ⚡ **Fun facts:** I love cars, optimization and playing guitar
 

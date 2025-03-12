@@ -11,7 +11,7 @@
 
 <h3 align="center">🌐 Connect with me:</h3>
 <div align="center">
-    <a href="mailto:albi.puliga@gmail.com " target="_blank">
+    <a href="mailto:apuliga.ieu2022@student.ie.edu " target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/alberto-puliga/" target="_blank">

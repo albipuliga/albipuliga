@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/16AzHMWGkX7IRsYffuFmZr_gdn1oWohSr/view?usp=sharing)
 
-- I made an app to help University students prepare for exams, check it out [HERE](https://quiz-u.streamlit.app/)
+- 🚀 I made an app to help University students prepare for exams, check it out [HERE](https://quiz-u.streamlit.app/)
 
 - ⚡ **Fun facts:** I love cars, optimization and playing guitar
 

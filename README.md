@@ -5,7 +5,7 @@
 
 - 🖥️ I am mostly interested in **Backend Development**, but lately I've been diving deeper into **Full-Stack**!
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/16AzHMWGkX7IRsYffuFmZr_gdn1oWohSr/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1VDCVNUt_X_rH8-rqGFVg5mkHiI29Z6Wj/view?usp=sharing)
 
 - 🚀 I made an app to help University students prepare for exams, check it out [HERE](https://quiz-u.streamlit.app/)
 
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,django,flask,sklearn,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,sklearn,pytorch,tensorflow" />
   </a>
 </p>
 <p align="center">

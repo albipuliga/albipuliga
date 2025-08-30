@@ -5,7 +5,7 @@
 
 - 🖥️ I am mostly interested in **Backend Development**, but lately I've been diving deeper into **Full-Stack**!
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1VDCVNUt_X_rH8-rqGFVg5mkHiI29Z6Wj/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1XhHqWlM6f4WcQLSIaX3-UcRQU4PI4arD/view?usp=sharing)
 
 - 🚀 I made an app to help University students prepare for exams, check it out [HERE](https://quiz-u.streamlit.app/)
 

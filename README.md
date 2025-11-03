@@ -4,7 +4,7 @@
 
 <p>Probably solving problems or geeking out about AI</p>
 <p>I love cars, sports and playing guitar</p>
-<p>Here's my <a href="https://drive.google.com/file/d/1XhHqWlM6f4WcQLSIaX3-UcRQU4PI4arD/view?usp=sharing">CV</a> and <a href="https://www.linkedin.com/in/alberto-puliga">LinkedIn</a></p>
+<p>Here's my <a href="https://drive.google.com/file/d/16U09NhqToydYneh6P58CQRa34bYihryN/view?usp=sharing">CV</a> and <a href="https://www.linkedin.com/in/alberto-puliga">LinkedIn</a></p>
 
 <h3>🧭 Ethos:</h3>
 

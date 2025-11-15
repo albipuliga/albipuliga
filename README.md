@@ -13,19 +13,19 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,sklearn,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,pytorch,tensorflow,opencv" />
   </a>
 </p>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react" />
   </a>
 </p>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,postgres,git,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=docker,azure" />
   </a>
 </p>
 

@@ -12,7 +12,7 @@ Probably solving problems or geeking out about AI
 
 ### ⚙️ Languages / Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,django,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,opencv,django,fastapi)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react)](https://skillicons.dev)
 

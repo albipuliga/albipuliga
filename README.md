@@ -4,7 +4,7 @@
 
 Probably solving problems or geeking out about AI
 
-[![CV](https://img.shields.io/badge/CV-001F3F?logo=readme&logoColor=fff)](https://drive.google.com/file/d/1892oLrvpxHuUxPB4qlQjrp6jFnvmp5AF/view?usp=sharing) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alberto-puliga/)
+  [![CV](https://img.shields.io/badge/CV-001F3F?logo=readme&logoColor=fff)](https://drive.google.com/file/d/1-EU5VA_mq5OmsCRUYiRmd65CqdtrZk0WupizmDjExYY/view) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alberto-puliga/)
 
 ### 🧭 Ethos:
 
